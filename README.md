@@ -25,7 +25,7 @@ List of Python Libraries made by me 😄
 **Pypi:** https://pypi.org/project/PyYtX
 
 
-## 4. [pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py)
+## 5. [pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py)
 
 **Description:** Modified Version of [mega.py](https://github.com/odwyersoftware/mega.py) package for Pyrogram Bots `Unmaintained 😞` </br>
 **Pypi:** Unavailable
